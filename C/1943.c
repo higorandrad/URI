@@ -1,3 +1,5 @@
+//Higor Andrade
+
 #include <stdio.h>
 
 int rankPosition(int x);

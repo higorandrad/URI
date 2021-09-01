@@ -1,3 +1,5 @@
+//Higor Andrade
+
 #include <stdio.h>
 #include <math.h>
 
